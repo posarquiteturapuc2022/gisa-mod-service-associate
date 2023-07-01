@@ -1,0 +1,272 @@
+2023-06-14 23:04:19,582 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-14 23:04:19,615 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 27844 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-14 23:04:19,617 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-14 23:04:20,488 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-14 23:04:20,640 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 145 ms. Found 2 JPA repository interfaces.
+2023-06-14 23:04:20,875 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=e7ca09a4-d44f-39a0-9831-db006133fd7f
+2023-06-14 23:04:21,402 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-14 23:04:21,411 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-14 23:04:21,411 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-14 23:04:21,411 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-14 23:04:21,513 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-14 23:04:21,513 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1859 ms
+2023-06-14 23:04:21,540 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-14 23:04:21,558 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-14 23:04:21,920 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-14 23:04:21,962 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-14 23:04:22,113 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-14 23:04:22,214 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-14 23:04:22,791 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-14 23:04:22,791 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-14 23:04:22,947 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-14 23:04:23,037 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 23:04:23,044 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-14 23:04:23,154 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-14 23:04:24,037 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-14 23:04:24,194 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-14 23:04:25,028 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-14 23:04:25,028 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-14 23:04:25,028 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-14 23:04:25,028 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-14 23:04:25,028 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-14 23:04:25,035 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-14 23:04:25,035 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-14 23:04:25,035 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-14 23:04:25,038 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-14 23:04:25,044 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-14 23:04:25,249 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-14 23:04:25,256 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-14 23:04:25,256 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-14 23:04:25,459 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-14 23:04:25,525 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@1805b503, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@73b6fbd1)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@1c94d976, clock: SystemClock, configuration: Configuration(false)]
+2023-06-14 23:04:28,688 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-14 23:04:28,690 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-14 23:04:28,779 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-14 23:04:28,808 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-14 23:04:28,812 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-14 23:04:28,936 ERROR org.camunda.bpm.engine.context [main] ENGINE-16004 Exception while closing command context: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+org.camunda.bpm.engine.ParseException: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+	at org.camunda.bpm.engine.impl.util.EngineUtilLogger.exceptionDuringParsing(EngineUtilLogger.java:66)
+	at org.camunda.bpm.engine.impl.util.xml.Parse.throwExceptionForErrors(Parse.java:256)
+	at org.camunda.bpm.engine.impl.bpmn.parser.BpmnParse.execute(BpmnParse.java:272)
+	at org.camunda.bpm.engine.impl.bpmn.deployer.BpmnDeployer.transformDefinitions(BpmnDeployer.java:105)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.transformResource(AbstractDefinitionDeployer.java:99)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.parseDefinitionResources(AbstractDefinitionDeployer.java:74)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.deploy(AbstractDefinitionDeployer.java:64)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:54)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer.deploy(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.DeploymentCache.deploy(DeploymentCache.java:71)
+	at org.camunda.bpm.engine.impl.persistence.entity.DeploymentManager.insertDeployment(DeploymentManager.java:64)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.deploy(DeployCmd.java:254)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.lambda$doExecute$0(DeployCmd.java:155)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.doExecute(DeployCmd.java:141)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:101)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:81)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.RepositoryServiceImpl.deployWithResult(RepositoryServiceImpl.java:104)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deployWithResult(DeploymentBuilderImpl.java:270)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deploy(DeploymentBuilderImpl.java:266)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.autoDeployResources(SpringTransactionsProcessEngineConfiguration.java:160)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.buildProcessEngine(SpringTransactionsProcessEngineConfiguration.java:68)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:55)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:34)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:169)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:101)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getObjectForBeanInstance(AbstractBeanFactory.java:1884)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getObjectForBeanInstance(AbstractAutowireCapableBeanFactory.java:1284)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:267)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1571)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+2023-06-14 23:04:28,940 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'camundaIntegrationDeterminator': Unsatisfied dependency expressed through field 'processEngine'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ParseException: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+2023-06-14 23:04:28,943 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-14 23:04:28,946 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-14 23:04:28,958 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-14 23:04:28,958 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2023-06-14 23:04:28,969 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-14 23:04:28,990 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'camundaIntegrationDeterminator': Unsatisfied dependency expressed through field 'processEngine'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ParseException: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:659)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ParseException: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:176)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:101)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getObjectForBeanInstance(AbstractBeanFactory.java:1884)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getObjectForBeanInstance(AbstractAutowireCapableBeanFactory.java:1284)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:267)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1571)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	... 20 common frames omitted
+Caused by: org.camunda.bpm.engine.ParseException: ENGINE-09005 Could not parse BPMN process. Errors: 
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_0ih3jzk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_054icyz' has outgoing sequence flow 'Flow_1dskayh' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_0hunw89' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0k43ezt' has outgoing sequence flow 'Flow_187mmsn' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_0agr9gz' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1du8l5y' has outgoing sequence flow 'Flow_16bwv72' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_04m2nlk' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0jhkzau' has outgoing sequence flow 'Flow_0o4x3ey' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0edddr9' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_1lqslpr' has outgoing sequence flow 'Flow_0gufi87' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ni0o07' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+* Exclusive Gateway 'Gateway_0up7mnt' has outgoing sequence flow 'Flow_0ef346c' without condition which is not the default flow. | resource C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn
+	at org.camunda.bpm.engine.impl.util.EngineUtilLogger.exceptionDuringParsing(EngineUtilLogger.java:66)
+	at org.camunda.bpm.engine.impl.util.xml.Parse.throwExceptionForErrors(Parse.java:256)
+	at org.camunda.bpm.engine.impl.bpmn.parser.BpmnParse.execute(BpmnParse.java:272)
+	at org.camunda.bpm.engine.impl.bpmn.deployer.BpmnDeployer.transformDefinitions(BpmnDeployer.java:105)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.transformResource(AbstractDefinitionDeployer.java:99)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.parseDefinitionResources(AbstractDefinitionDeployer.java:74)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.deploy(AbstractDefinitionDeployer.java:64)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:54)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer.deploy(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.DeploymentCache.deploy(DeploymentCache.java:71)
+	at org.camunda.bpm.engine.impl.persistence.entity.DeploymentManager.insertDeployment(DeploymentManager.java:64)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.deploy(DeployCmd.java:254)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.lambda$doExecute$0(DeployCmd.java:155)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.doExecute(DeployCmd.java:141)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:101)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:81)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.RepositoryServiceImpl.deployWithResult(RepositoryServiceImpl.java:104)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deployWithResult(DeploymentBuilderImpl.java:270)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deploy(DeploymentBuilderImpl.java:266)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.autoDeployResources(SpringTransactionsProcessEngineConfiguration.java:160)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.buildProcessEngine(SpringTransactionsProcessEngineConfiguration.java:68)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:55)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:34)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:169)
+	... 31 common frames omitted

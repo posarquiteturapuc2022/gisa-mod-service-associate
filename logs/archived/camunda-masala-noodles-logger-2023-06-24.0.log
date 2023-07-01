@@ -1,0 +1,236 @@
+2023-06-24 00:03:38,869 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:08:38,881 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:13:38,885 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:18:38,886 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:23:38,904 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:28:38,913 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:33:38,922 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:38:38,932 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:43:38,941 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:48:38,950 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:53:38,960 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 00:58:38,962 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 01:03:38,977 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:01:49,384 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h58m19s578ms264µs300ns).
+2023-06-24 03:06:28,549 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:11:28,553 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:16:28,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:21:28,566 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:26:28,574 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:31:28,583 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:36:28,585 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:41:28,588 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:46:28,603 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:51:28,606 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 03:56:28,617 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 04:01:28,621 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:04:40,368 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=5h3m20s6ms754µs300ns).
+2023-06-24 09:09:18,625 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:14:18,641 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:19:18,655 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:24:18,666 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:29:18,667 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:34:18,674 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:39:18,688 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:44:18,702 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:49:18,715 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:54:18,719 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 09:59:18,733 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 10:04:18,735 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:10:41,917 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h6m30s517ms738µs400ns).
+2023-06-24 11:15:36,469 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:20:36,472 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:25:36,486 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:30:36,487 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:35:36,498 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:40:36,509 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:45:36,523 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:50:36,526 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 11:55:36,537 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:00:36,550 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:05:36,559 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:10:36,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:37:57,493 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=27m44s613ms88µs700ns).
+2023-06-24 12:42:51,169 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:47:51,173 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:48:10,885 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(302)-127.0.0.1] Application shutdown requested.
+2023-06-24 12:48:10,886 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(302)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-24 12:48:10,886 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(302)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1687621690886, current=DOWN, previous=UP]
+2023-06-24 12:48:10,886 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-24 12:48:10,905 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-24 12:48:11,122 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(302)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-24 12:48:11,122 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-24 12:48:11,123 INFO org.camunda.bpm.engine [RMI TCP Connection(302)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-24 12:48:11,124 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(302)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-24 12:48:11,125 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(302)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-24 12:48:11,130 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(302)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-24 12:48:11,130 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(302)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-24 12:48:14,136 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(302)-127.0.0.1] Unregistering ...
+2023-06-24 12:48:14,153 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(302)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-24 12:48:14,159 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(302)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-24 12:48:17,322 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-24 12:48:17,342 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 41340 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-24 12:48:17,344 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-24 12:48:17,885 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-24 12:48:18,016 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 125 ms. Found 1 JPA repository interfaces.
+2023-06-24 12:48:18,190 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-24 12:48:18,609 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-24 12:48:18,616 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-24 12:48:18,616 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-24 12:48:18,616 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-24 12:48:18,698 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-24 12:48:18,698 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1326 ms
+2023-06-24 12:48:18,715 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-24 12:48:18,726 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-24 12:48:19,016 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-24 12:48:19,054 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-24 12:48:19,159 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-24 12:48:19,242 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-24 12:48:19,740 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-24 12:48:19,741 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-24 12:48:19,887 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-24 12:48:19,951 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-24 12:48:19,958 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-24 12:48:20,071 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-24 12:48:20,595 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-24 12:48:20,692 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-24 12:48:21,506 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-24 12:48:21,506 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-24 12:48:21,506 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-24 12:48:21,506 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-24 12:48:21,506 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-24 12:48:21,508 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-24 12:48:21,509 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-24 12:48:21,509 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-24 12:48:21,510 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-24 12:48:21,513 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-24 12:48:21,639 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-24 12:48:21,643 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-24 12:48:21,643 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-24 12:48:21,752 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-24 12:48:21,800 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@774b798, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@b079fa2)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@795d43d9, clock: SystemClock, configuration: Configuration(false)]
+2023-06-24 12:48:24,208 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-24 12:48:24,209 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-24 12:48:24,323 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-24 12:48:24,346 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-24 12:48:24,349 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-24 12:48:25,342 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@41e7a544
+2023-06-24 12:48:25,343 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@4449b273
+2023-06-24 12:48:26,196 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-24 12:48:26,624 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-24 12:48:26,701 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-24 12:48:26,731 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-24 12:48:26,737 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-24 12:48:26,757 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-24 12:48:26,924 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-24 12:48:26,925 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-24 12:48:26,927 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-24 12:48:26,931 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1687621706930 with initial instances count: 2
+2023-06-24 12:48:26,938 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-24 12:48:26,938 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1687621706938, current=UP, previous=STARTING]
+2023-06-24 12:48:26,940 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-24 12:48:26,940 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-24 12:48:26,957 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-24 12:48:26,958 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-24 12:48:26,968 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-24 12:48:27,305 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 10.727 seconds (JVM running for 11.593)
+2023-06-24 12:48:27,308 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-24 12:48:27,309 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-24 12:53:26,771 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 12:58:26,784 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:03:26,788 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:08:26,788 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:13:26,794 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:18:26,801 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:23:26,803 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:28:26,811 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:33:26,814 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:38:26,816 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:43:26,823 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:48:26,838 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 13:53:26,854 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:05:25,772 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h10m34s718ms16µs300ns).
+2023-06-24 15:08:31,566 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:13:31,572 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:18:31,580 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:23:31,593 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:28:31,594 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:33:31,596 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:38:31,598 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:43:31,602 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:48:31,614 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:53:31,619 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 15:58:31,621 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 16:03:31,634 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:21:34,548 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h16m37s889ms116µs100ns).
+2023-06-24 17:25:06,861 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:30:06,866 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:35:06,871 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:40:06,878 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:45:06,881 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:50:06,890 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 17:55:06,901 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:00:06,915 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:05:06,922 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:10:06,933 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:15:06,940 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:20:06,951 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:44:11,761 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=23m6s308ms470µs500ns).
+2023-06-24 18:47:43,260 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:52:43,264 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 18:57:43,279 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:02:43,288 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:07:43,296 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:12:43,301 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:17:43,315 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:22:43,327 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:27:43,340 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:32:43,352 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:37:43,366 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 19:42:43,380 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:20:02,470 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=36m24s534ms665µs201ns).
+2023-06-24 20:23:33,137 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:28:33,153 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:33:33,169 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:38:33,175 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:43:33,183 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:48:33,193 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:53:33,209 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 20:58:33,222 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:03:33,227 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:08:33,241 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:09:01,956 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [http-nio-9091-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-24 21:09:01,956 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-06-24 21:09:01,957 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Completed initialization in 1 ms
+2023-06-24 21:09:02,219 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-1] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [243] milliseconds.
+2023-06-24 21:13:33,256 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:18:33,268 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:23:33,281 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:28:33,293 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:33:33,298 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:38:33,306 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:43:33,319 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:48:33,330 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:53:33,342 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 21:58:33,357 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:03:33,358 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:08:33,366 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:13:33,379 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:18:33,433 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:23:33,447 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:28:33,451 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:33:33,465 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:38:33,479 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:43:33,494 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:48:33,507 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:53:33,523 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 22:58:33,529 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 23:03:33,533 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 23:08:33,548 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-24 23:13:33,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration

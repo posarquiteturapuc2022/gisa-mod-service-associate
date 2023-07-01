@@ -1,0 +1,396 @@
+2023-06-12 05:43:51,919 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=6h39m58s30ms967µs400ns).
+2023-06-12 05:46:58,558 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 05:51:58,562 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 05:56:58,572 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:01:58,590 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:06:58,597 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:11:58,610 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:16:58,612 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:21:58,615 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:26:58,621 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:31:58,631 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:36:58,645 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 06:41:58,660 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 07:44:29,611 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h1m6s747ms405µs400ns).
+2023-06-12 07:47:44,736 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-12 07:49:22,653 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(135)-127.0.0.1] Application shutdown requested.
+2023-06-12 07:49:22,654 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(135)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-12 07:49:22,655 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(135)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1686566962655, current=DOWN, previous=UP]
+2023-06-12 07:49:22,655 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-12 07:49:22,665 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-12 07:49:22,848 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(135)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-12 07:49:22,849 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-12 07:49:22,851 INFO org.camunda.bpm.engine [RMI TCP Connection(135)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-12 07:49:22,854 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(135)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:49:22,855 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(135)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-12 07:49:22,860 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(135)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-12 07:49:22,860 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(135)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-12 07:49:25,861 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(135)-127.0.0.1] Unregistering ...
+2023-06-12 07:49:25,877 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(135)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-12 07:49:25,880 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(135)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-12 07:49:29,270 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-12 07:49:29,290 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 300 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-12 07:49:29,291 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-12 07:49:29,860 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-12 07:49:30,010 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 143 ms. Found 2 JPA repository interfaces.
+2023-06-12 07:49:30,224 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=e7ca09a4-d44f-39a0-9831-db006133fd7f
+2023-06-12 07:49:30,668 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-12 07:49:30,678 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-12 07:49:30,679 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-12 07:49:30,679 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-12 07:49:30,762 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-12 07:49:30,763 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1444 ms
+2023-06-12 07:49:30,781 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-12 07:49:30,792 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-12 07:49:31,068 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-12 07:49:31,103 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-12 07:49:31,217 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-12 07:49:31,344 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-12 07:49:31,845 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-12 07:49:31,845 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-12 07:49:32,099 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-12 07:49:32,162 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-12 07:49:32,169 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:49:32,259 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-12 07:49:33,032 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-12 07:49:33,166 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-12 07:49:34,093 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:49:34,093 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:49:34,094 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:49:34,094 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:49:34,094 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_serv_assoc_gerar_num_cart.bpmn]]
+2023-06-12 07:49:34,096 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-12 07:49:34,096 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-12 07:49:34,096 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-12 07:49:34,098 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-12 07:49:34,100 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-12 07:49:34,233 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-12 07:49:34,238 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-12 07:49:34,238 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-12 07:49:34,374 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-12 07:49:34,423 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@6bd5ca02, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@4758f533)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@6662af0a, clock: SystemClock, configuration: Configuration(false)]
+2023-06-12 07:49:37,077 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-12 07:49:37,079 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-12 07:49:37,152 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-12 07:49:37,176 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-12 07:49:37,179 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-12 07:49:38,064 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@5c3710b3
+2023-06-12 07:49:38,065 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@2bd4780c
+2023-06-12 07:49:38,629 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-12 07:49:39,045 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-12 07:49:39,105 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-12 07:49:39,136 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-12 07:49:39,140 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-12 07:49:39,160 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-12 07:49:39,308 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-12 07:49:39,310 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-12 07:49:39,311 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-12 07:49:39,315 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1686566979314 with initial instances count: 4
+2023-06-12 07:49:39,322 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-12 07:49:39,322 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1686566979322, current=UP, previous=STARTING]
+2023-06-12 07:49:39,323 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-12 07:49:39,323 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-12 07:49:39,341 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-12 07:49:39,341 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-12 07:49:39,353 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-12 07:49:39,597 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 11.052 seconds (JVM running for 11.864)
+2023-06-12 07:49:39,600 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-12 07:49:39,601 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-12 07:50:18,599 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-2] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [165] milliseconds.
+2023-06-12 07:50:18,599 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-1] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [166] milliseconds.
+2023-06-12 07:50:18,599 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-3] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [166] milliseconds.
+2023-06-12 07:50:18,610 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [http-nio-9091-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-12 07:50:18,610 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-3] Initializing Servlet 'dispatcherServlet'
+2023-06-12 07:50:18,611 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-3] Completed initialization in 1 ms
+2023-06-12 07:50:51,318 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(11)-127.0.0.1] Application shutdown requested.
+2023-06-12 07:50:51,319 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(11)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-12 07:50:51,319 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1686567051319, current=DOWN, previous=UP]
+2023-06-12 07:50:51,320 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-12 07:50:51,335 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-12 07:50:51,513 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(11)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-12 07:50:51,513 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-12 07:50:51,514 INFO org.camunda.bpm.engine [RMI TCP Connection(11)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-12 07:50:51,517 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(11)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:50:51,518 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(11)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-12 07:50:51,521 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(11)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-12 07:50:51,523 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-12 07:50:54,531 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Unregistering ...
+2023-06-12 07:50:54,548 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-12 07:50:54,551 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-12 07:50:57,216 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-12 07:50:57,255 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 32980 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-12 07:50:57,256 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-12 07:50:57,837 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-12 07:50:57,980 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 137 ms. Found 2 JPA repository interfaces.
+2023-06-12 07:50:58,157 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=e7ca09a4-d44f-39a0-9831-db006133fd7f
+2023-06-12 07:50:58,586 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-12 07:50:58,593 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-12 07:50:58,593 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-12 07:50:58,593 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-12 07:50:58,675 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-12 07:50:58,675 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1394 ms
+2023-06-12 07:50:58,691 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-12 07:50:58,701 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-12 07:50:59,015 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-12 07:50:59,052 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-12 07:50:59,176 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-12 07:50:59,262 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-12 07:50:59,755 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-12 07:50:59,755 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-12 07:50:59,884 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-12 07:50:59,947 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-12 07:50:59,954 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:51:00,043 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-12 07:51:00,763 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-12 07:51:00,867 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-12 07:51:01,786 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:51:01,786 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:51:01,786 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:51:01,786 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:51:01,786 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_serv_assoc_gerar_num_cart.bpmn], file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-12 07:51:01,789 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-12 07:51:01,789 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-12 07:51:01,789 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-12 07:51:01,791 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-12 07:51:01,793 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-12 07:51:01,921 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-12 07:51:01,926 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-12 07:51:01,927 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-12 07:51:02,030 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-12 07:51:02,072 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@f54cdc4, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@7241872c)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@6565f3, clock: SystemClock, configuration: Configuration(false)]
+2023-06-12 07:51:04,466 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-12 07:51:04,468 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-12 07:51:04,539 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-12 07:51:04,582 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-12 07:51:04,584 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-12 07:51:04,676 ERROR org.camunda.bpm.engine.context [main] ENGINE-16004 Exception while closing command context: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+org.camunda.bpm.engine.ProcessEngineException: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.ensureNoDuplicateDefinitionKeys(AbstractDefinitionDeployer.java:192)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.deploy(AbstractDefinitionDeployer.java:65)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:54)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer.deploy(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.DeploymentCache.deploy(DeploymentCache.java:71)
+	at org.camunda.bpm.engine.impl.persistence.entity.DeploymentManager.insertDeployment(DeploymentManager.java:64)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.deploy(DeployCmd.java:254)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.lambda$doExecute$0(DeployCmd.java:155)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.doExecute(DeployCmd.java:141)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:101)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:81)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.RepositoryServiceImpl.deployWithResult(RepositoryServiceImpl.java:104)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deployWithResult(DeploymentBuilderImpl.java:270)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deploy(DeploymentBuilderImpl.java:266)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.autoDeployResources(SpringTransactionsProcessEngineConfiguration.java:160)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.buildProcessEngine(SpringTransactionsProcessEngineConfiguration.java:68)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:55)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:34)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:169)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:101)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getObjectForBeanInstance(AbstractBeanFactory.java:1884)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getObjectForBeanInstance(AbstractAutowireCapableBeanFactory.java:1284)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:267)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1571)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+2023-06-12 07:51:04,678 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'camundaIntegrationDeterminator': Unsatisfied dependency expressed through field 'processEngine'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ProcessEngineException: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+2023-06-12 07:51:04,680 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:51:04,682 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-12 07:51:04,693 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-12 07:51:04,693 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2023-06-12 07:51:04,702 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-12 07:51:04,717 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'camundaIntegrationDeterminator': Unsatisfied dependency expressed through field 'processEngine'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ProcessEngineException: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:659)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processEngineFactoryBean': FactoryBean threw exception on object creation; nested exception is org.camunda.bpm.engine.ProcessEngineException: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:176)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:101)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getObjectForBeanInstance(AbstractBeanFactory.java:1884)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getObjectForBeanInstance(AbstractAutowireCapableBeanFactory.java:1284)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:267)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1614)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1571)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	... 20 common frames omitted
+Caused by: org.camunda.bpm.engine.ProcessEngineException: The deployment contains definitions with the same key 'Process_1z13tbw' (id attribute), this is not allowed
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.ensureNoDuplicateDefinitionKeys(AbstractDefinitionDeployer.java:192)
+	at org.camunda.bpm.engine.impl.AbstractDefinitionDeployer.deploy(AbstractDefinitionDeployer.java:65)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:54)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer$1.call(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.CacheDeployer.deploy(CacheDeployer.java:51)
+	at org.camunda.bpm.engine.impl.persistence.deploy.cache.DeploymentCache.deploy(DeploymentCache.java:71)
+	at org.camunda.bpm.engine.impl.persistence.entity.DeploymentManager.insertDeployment(DeploymentManager.java:64)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.deploy(DeployCmd.java:254)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.lambda$doExecute$0(DeployCmd.java:155)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:559)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContext.runWithoutAuthorization(CommandContext.java:547)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.doExecute(DeployCmd.java:141)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:101)
+	at org.camunda.bpm.engine.impl.cmd.DeployCmd.execute(DeployCmd.java:81)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.RepositoryServiceImpl.deployWithResult(RepositoryServiceImpl.java:104)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deployWithResult(DeploymentBuilderImpl.java:270)
+	at org.camunda.bpm.engine.impl.repository.DeploymentBuilderImpl.deploy(DeploymentBuilderImpl.java:266)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.autoDeployResources(SpringTransactionsProcessEngineConfiguration.java:160)
+	at org.camunda.bpm.engine.spring.SpringTransactionsProcessEngineConfiguration.buildProcessEngine(SpringTransactionsProcessEngineConfiguration.java:68)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:55)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.getObject(ProcessEngineFactoryBean.java:34)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:169)
+	... 31 common frames omitted
+2023-06-12 07:52:44,308 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-12 07:52:44,329 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 13988 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-12 07:52:44,330 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-12 07:52:44,886 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-12 07:52:45,015 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 123 ms. Found 2 JPA repository interfaces.
+2023-06-12 07:52:45,240 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=e7ca09a4-d44f-39a0-9831-db006133fd7f
+2023-06-12 07:52:45,658 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-12 07:52:45,665 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-12 07:52:45,666 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-12 07:52:45,666 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-12 07:52:45,782 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-12 07:52:45,784 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1427 ms
+2023-06-12 07:52:45,807 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-12 07:52:45,819 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-12 07:52:46,098 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-12 07:52:46,136 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-12 07:52:46,243 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-12 07:52:46,333 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-12 07:52:46,803 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-12 07:52:46,803 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-12 07:52:46,967 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-12 07:52:47,037 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-12 07:52:47,044 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-12 07:52:47,136 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-12 07:52:47,833 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-12 07:52:47,966 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-12 07:52:48,855 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:52:48,856 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:52:48,856 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:52:48,856 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-12 07:52:48,857 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-12 07:52:48,859 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-12 07:52:48,859 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-12 07:52:48,859 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-12 07:52:48,861 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-12 07:52:48,864 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-12 07:52:48,993 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-12 07:52:48,998 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-12 07:52:48,999 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-12 07:52:49,148 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-12 07:52:49,209 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@3077e4aa, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@3518882c)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@61c8139a, clock: SystemClock, configuration: Configuration(false)]
+2023-06-12 07:52:51,753 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-12 07:52:51,754 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-12 07:52:51,822 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-12 07:52:51,846 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-12 07:52:51,848 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-12 07:52:52,736 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@5c3710b3
+2023-06-12 07:52:52,736 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@2bd4780c
+2023-06-12 07:52:53,232 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-12 07:52:53,658 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-12 07:52:53,719 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-12 07:52:53,750 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-12 07:52:53,754 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-12 07:52:53,774 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-12 07:52:53,957 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-12 07:52:53,958 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-12 07:52:53,960 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-12 07:52:53,964 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1686567173963 with initial instances count: 3
+2023-06-12 07:52:53,971 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-12 07:52:53,972 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1686567173972, current=UP, previous=STARTING]
+2023-06-12 07:52:53,973 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-12 07:52:53,973 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-12 07:52:53,991 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-12 07:52:53,991 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-12 07:52:54,003 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-12 07:52:54,255 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 10.585 seconds (JVM running for 11.386)
+2023-06-12 07:52:54,258 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-12 07:52:54,259 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-12 07:53:10,535 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-2] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [227] milliseconds.
+2023-06-12 07:53:10,535 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-1] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [227] milliseconds.
+2023-06-12 07:53:10,535 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-3] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [227] milliseconds.
+2023-06-12 07:53:10,544 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [http-nio-9091-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-12 07:53:10,544 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-06-12 07:53:10,545 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Completed initialization in 1 ms
+2023-06-12 07:57:53,779 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration

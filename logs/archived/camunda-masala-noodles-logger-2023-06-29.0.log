@@ -1,0 +1,758 @@
+2023-06-29 00:02:46,467 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 00:07:46,470 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 00:12:46,482 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 00:17:46,485 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 00:22:46,490 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 00:27:46,497 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 01:55:25,902 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=1h25m46s467ms925µs700ns).
+2023-06-29 01:58:04,131 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:03:04,133 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:08:04,146 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:13:04,152 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:18:04,159 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:23:04,159 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:28:04,173 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:33:04,174 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:38:04,180 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:43:04,184 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:48:04,195 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 02:53:04,208 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:02:41,134 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=7m44s306ms170µs600ns).
+2023-06-29 03:05:18,503 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:10:18,510 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:15:18,524 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:20:18,530 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:25:18,539 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:30:18,544 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:35:18,555 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:40:18,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:45:18,564 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:50:18,578 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 03:55:18,591 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 04:00:18,591 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:03:01,787 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=3h49s662ms711µs800ns).
+2023-06-29 07:05:38,252 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:10:38,254 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:15:38,261 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:20:38,264 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:25:38,271 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:30:38,273 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:35:38,278 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:40:38,280 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:45:38,281 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:50:38,282 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 07:55:38,283 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:00:38,291 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:15:40,685 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=13m7s998ms573µs200ns).
+2023-06-29 08:18:16,286 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:23:16,293 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:28:16,296 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:33:16,305 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:38:16,309 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:43:16,316 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:48:16,325 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:53:16,338 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 08:58:16,349 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:03:16,356 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:08:16,367 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:13:16,371 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:18:16,379 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:23:16,387 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:28:16,389 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:33:16,402 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:38:16,412 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:43:16,427 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:48:16,437 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:53:16,451 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 09:58:16,465 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:03:16,481 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:08:16,482 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:13:16,489 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:18:16,504 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:23:16,515 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:28:16,528 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:33:16,530 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:35:40,943 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [http-nio-9091-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-29 10:35:40,943 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-06-29 10:35:40,947 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-1] Completed initialization in 4 ms
+2023-06-29 10:35:41,266 WARN org.apache.catalina.util.SessionIdGeneratorBase [http-nio-9091-exec-1] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [302] milliseconds.
+2023-06-29 10:38:16,534 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:43:16,537 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:48:16,553 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:53:16,557 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 10:58:16,568 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:03:16,577 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:08:16,584 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:13:16,599 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:18:16,605 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:23:16,616 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:28:16,623 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:33:16,627 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:38:16,634 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:43:16,650 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:48:16,651 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:53:16,652 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 11:58:16,665 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:03:16,679 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:08:16,681 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:13:16,691 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:18:16,703 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:23:16,711 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:28:16,719 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:33:16,733 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:38:16,745 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:43:16,748 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:48:16,753 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:53:16,761 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 12:58:16,772 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:03:16,785 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:08:16,791 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:13:16,802 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:18:16,808 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:23:16,814 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:28:16,822 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:33:16,830 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:38:16,843 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:43:16,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:48:16,857 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:53:16,860 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 13:58:16,869 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:03:16,877 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:08:16,890 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:13:16,902 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:18:16,910 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:23:16,913 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:28:16,925 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:33:16,928 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:38:16,936 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:43:16,942 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:48:16,955 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:53:16,959 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 14:58:16,965 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:03:16,971 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:08:16,982 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:13:16,997 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:18:17,010 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:23:17,013 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:28:17,016 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:33:17,023 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:38:17,034 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:43:17,050 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:48:17,063 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:53:17,077 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 15:58:17,081 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:03:17,085 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:08:17,088 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:13:17,091 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:18:17,099 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:23:17,110 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:28:17,116 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:33:17,132 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:38:17,139 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:43:17,147 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:48:17,161 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:53:17,173 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 16:58:17,174 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:03:17,176 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:08:17,187 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:13:17,188 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:18:17,189 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:23:17,197 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:28:17,208 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:33:17,212 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:38:17,220 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 17:43:17,226 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:08:20,226 WARN com.zaxxer.hikari.pool.HikariPool [CAMUNDA-HIKARI-POOL housekeeper] CAMUNDA-HIKARI-POOL - Thread starvation or clock leap detected (housekeeper delta=20m59s738ms998µs600ns).
+2023-06-29 18:08:47,402 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:13:47,416 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:18:47,423 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:23:47,438 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:28:47,444 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:33:47,455 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:38:47,463 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:43:47,474 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:48:47,479 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:53:47,482 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 18:58:47,489 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:03:47,503 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:08:47,512 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:13:47,528 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:18:47,531 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:23:47,547 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:28:47,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:33:47,573 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:38:47,575 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:43:47,578 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:48:47,583 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:53:47,586 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 19:58:47,598 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:03:47,600 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:08:47,609 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:13:47,625 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:18:47,639 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:23:47,653 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:28:47,661 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:33:47,662 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:38:47,667 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:43:47,671 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:48:47,674 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:53:47,676 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 20:58:47,682 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 21:03:47,684 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 21:08:47,695 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 21:09:18,624 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2182)-127.0.0.1] Application shutdown requested.
+2023-06-29 21:09:18,626 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(2182)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-29 21:09:18,627 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(2182)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1688083758627, current=DOWN, previous=UP]
+2023-06-29 21:09:18,627 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 21:09:18,652 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 21:09:19,022 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(2182)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-29 21:09:19,023 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-29 21:09:19,024 INFO org.camunda.bpm.engine [RMI TCP Connection(2182)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-29 21:09:19,025 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(2182)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 21:09:19,026 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2182)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-29 21:09:19,029 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2182)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-29 21:09:19,029 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(2182)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-29 21:09:22,044 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(2182)-127.0.0.1] Unregistering ...
+2023-06-29 21:09:22,058 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(2182)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-29 21:09:22,066 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(2182)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-29 21:09:25,740 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 21:09:25,765 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 56344 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 21:09:25,767 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 21:09:26,835 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-29 21:09:26,984 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 141 ms. Found 1 JPA repository interfaces.
+2023-06-29 21:09:27,200 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=e31552f3-67bd-3e55-9391-444499786e7c
+2023-06-29 21:09:27,735 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-29 21:09:27,743 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-29 21:09:27,743 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-29 21:09:27,743 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-29 21:09:27,841 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-29 21:09:27,841 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2037 ms
+2023-06-29 21:09:27,863 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-29 21:09:27,876 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-29 21:09:28,205 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-29 21:09:28,248 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-29 21:09:28,408 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-29 21:09:28,517 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-29 21:09:29,148 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-29 21:09:29,149 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-29 21:09:29,352 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-29 21:09:29,410 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 21:09:29,417 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 21:09:29,916 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-29 21:09:30,818 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-29 21:09:30,933 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-29 21:09:31,990 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 21:09:31,990 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 21:09:31,990 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 21:09:31,990 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 21:09:31,990 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-29 21:09:31,993 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-29 21:09:31,993 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-29 21:09:31,993 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-29 21:09:31,995 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-29 21:09:31,998 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-29 21:09:32,141 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-29 21:09:32,147 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-29 21:09:32,147 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-29 21:09:32,272 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-29 21:09:32,357 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@1e1908ab, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@7680cb52)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@11f633f, clock: SystemClock, configuration: Configuration(false)]
+2023-06-29 21:09:35,614 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-29 21:09:35,616 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-29 21:09:35,736 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-29 21:09:35,761 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-29 21:09:35,764 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-29 21:09:36,746 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@3f2ef402
+2023-06-29 21:09:36,747 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@27a6384b
+2023-06-29 21:09:38,038 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-29 21:09:38,648 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-29 21:09:38,801 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-29 21:09:38,836 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-29 21:09:38,843 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-29 21:09:38,870 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-29 21:09:39,046 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-29 21:09:39,048 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-29 21:09:39,050 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-29 21:09:39,055 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1688083779055 with initial instances count: 3
+2023-06-29 21:09:39,065 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-29 21:09:39,065 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1688083779065, current=UP, previous=STARTING]
+2023-06-29 21:09:39,066 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-29 21:09:39,067 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 21:09:39,086 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-29 21:09:39,087 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-29 21:09:39,100 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 21:09:39,820 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 15.104 seconds (JVM running for 16.183)
+2023-06-29 21:09:39,825 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-29 21:09:39,827 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-29 21:11:33,509 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(10)-127.0.0.1] Application shutdown requested.
+2023-06-29 21:11:33,512 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(10)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-29 21:11:33,512 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1688083893512, current=DOWN, previous=UP]
+2023-06-29 21:11:33,512 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 21:11:33,522 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 21:11:33,769 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(10)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-29 21:11:33,769 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-29 21:11:33,770 INFO org.camunda.bpm.engine [RMI TCP Connection(10)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-29 21:11:33,772 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(10)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 21:11:33,773 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-29 21:11:33,778 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-29 21:11:33,778 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-29 21:11:36,787 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Unregistering ...
+2023-06-29 21:11:36,800 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-29 21:11:36,803 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-29 21:54:27,387 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 21:54:27,410 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 44648 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 21:54:27,411 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 21:54:27,567 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+2023-06-29 21:54:27,658 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-29 21:54:27,673 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:55)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:49)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:86)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:73)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81)
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:696)
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1024)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:386)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:394)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:332)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 23 common frames omitted
+2023-06-29 21:56:00,385 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 21:56:00,406 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 50204 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 21:56:00,407 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 21:56:00,567 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+2023-06-29 21:56:00,666 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-29 21:56:00,682 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:55)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:49)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:86)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:73)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81)
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:696)
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1024)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:386)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:394)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:332)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 23 common frames omitted
+2023-06-29 21:58:16,311 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 21:58:16,333 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 10896 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 21:58:16,334 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 21:58:16,485 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+2023-06-29 21:58:16,584 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-29 21:58:16,600 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:55)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:49)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:86)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:73)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81)
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:696)
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1024)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:386)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:394)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:332)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 23 common frames omitted
+2023-06-29 22:00:50,371 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 22:00:50,394 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 41888 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 22:00:50,396 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 22:00:50,548 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+2023-06-29 22:00:50,643 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-29 22:00:50,661 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:55)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:49)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:86)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:73)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81)
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:696)
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1024)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:386)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:394)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:332)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 23 common frames omitted
+2023-06-29 22:04:53,037 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 22:04:53,058 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 49332 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 22:04:53,060 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 22:04:53,902 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-29 22:04:54,050 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 141 ms. Found 1 JPA repository interfaces.
+2023-06-29 22:04:54,236 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-29 22:04:54,728 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-29 22:04:54,773 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-29 22:04:54,774 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-29 22:04:54,774 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-29 22:04:54,886 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-29 22:04:54,886 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1796 ms
+2023-06-29 22:04:54,904 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-29 22:04:54,916 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-29 22:04:55,279 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-29 22:04:55,323 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-29 22:04:55,470 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-29 22:04:55,592 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-29 22:04:56,185 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-29 22:04:56,185 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-29 22:04:56,331 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-29 22:04:56,393 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 22:04:56,400 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 22:04:56,519 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-29 22:04:57,095 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-29 22:04:57,207 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-29 22:04:58,678 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:04:58,678 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:04:58,679 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:04:58,679 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:04:58,679 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-29 22:04:58,685 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-29 22:04:58,685 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-29 22:04:58,685 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-29 22:04:58,690 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-29 22:04:58,699 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-29 22:04:58,862 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-29 22:04:58,868 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-29 22:04:58,868 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-29 22:04:59,001 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-29 22:04:59,057 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@36117f63, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@1227862a)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@6b0bcea5, clock: SystemClock, configuration: Configuration(false)]
+2023-06-29 22:05:03,717 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-29 22:05:03,719 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-29 22:05:03,906 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-29 22:05:03,936 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-29 22:05:03,939 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-29 22:05:05,576 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@57839834
+2023-06-29 22:05:05,650 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@2cff5aa3
+2023-06-29 22:05:07,121 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-29 22:05:07,921 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-29 22:05:08,013 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-29 22:05:08,057 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-29 22:05:08,063 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-29 22:05:08,087 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-29 22:05:08,286 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-29 22:05:08,288 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-29 22:05:08,290 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-29 22:05:08,294 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1688087108294 with initial instances count: 3
+2023-06-29 22:05:08,301 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-29 22:05:08,302 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1688087108302, current=UP, previous=STARTING]
+2023-06-29 22:05:08,304 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 22:05:08,304 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-29 22:05:08,324 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-29 22:05:08,325 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-29 22:05:08,337 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 22:05:08,850 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 16.689 seconds (JVM running for 17.684)
+2023-06-29 22:05:08,851 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-29 22:05:08,852 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-29 22:09:05,553 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(10)-127.0.0.1] Application shutdown requested.
+2023-06-29 22:09:05,556 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(10)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-29 22:09:05,556 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1688087345556, current=DOWN, previous=UP]
+2023-06-29 22:09:05,557 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 22:09:05,571 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 22:09:05,928 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(10)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-29 22:09:05,929 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-29 22:09:05,931 INFO org.camunda.bpm.engine [RMI TCP Connection(10)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-29 22:09:05,932 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(10)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 22:09:05,935 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-29 22:09:05,943 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-29 22:09:05,944 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Shutting down DiscoveryClient ...
+2023-06-29 22:09:08,954 WARN com.netflix.discovery.TimedSupervisorTask [DiscoveryClient-0] task supervisor shutting down, can't accept the task
+2023-06-29 22:09:08,954 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Unregistering ...
+2023-06-29 22:09:08,961 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - deregister  status: 200
+2023-06-29 22:09:08,967 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(10)-127.0.0.1] Completed shut down of DiscoveryClient
+2023-06-29 22:09:12,223 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 22:09:12,242 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 28640 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 22:09:12,244 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 22:09:12,401 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+2023-06-29 22:09:12,498 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-29 22:09:12,514 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:311)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: java.io.FileNotFoundException: class path resource [org/springframework/plugin/core/Plugin.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:55)
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:49)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:86)
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:73)
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81)
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:696)
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1024)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:386)
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:394)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:332)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:304)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 23 common frames omitted
+2023-06-29 22:10:47,194 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-29 22:10:47,216 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 36420 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-29 22:10:47,217 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-29 22:10:47,997 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-29 22:10:48,138 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 134 ms. Found 1 JPA repository interfaces.
+2023-06-29 22:10:48,316 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-29 22:10:48,744 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-29 22:10:48,752 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-29 22:10:48,753 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-29 22:10:48,753 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-29 22:10:48,854 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-29 22:10:48,854 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1610 ms
+2023-06-29 22:10:48,879 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-29 22:10:48,898 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-29 22:10:49,254 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-29 22:10:49,292 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-29 22:10:49,468 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-29 22:10:49,590 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-29 22:10:50,172 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-29 22:10:50,173 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-29 22:10:50,392 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-29 22:10:50,450 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 22:10:50,457 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 22:10:50,579 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-29 22:10:50,920 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-29 22:10:51,029 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-29 22:10:51,958 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:10:51,958 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:10:51,958 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:10:51,958 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-29 22:10:51,959 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-29 22:10:51,962 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-29 22:10:51,962 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-29 22:10:51,962 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-29 22:10:51,963 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-29 22:10:51,965 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-29 22:10:52,096 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-29 22:10:52,100 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-29 22:10:52,101 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-29 22:10:52,218 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-29 22:10:52,267 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@7f5ba1bf, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@536d153b)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@7f6c85c4, clock: SystemClock, configuration: Configuration(false)]
+2023-06-29 22:10:55,198 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-29 22:10:55,199 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-29 22:10:55,327 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-29 22:10:55,352 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-29 22:10:55,354 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-29 22:10:56,376 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@69c1ea07
+2023-06-29 22:10:56,377 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@7b9c2387
+2023-06-29 22:10:57,271 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-29 22:10:57,860 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-29 22:10:57,944 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-29 22:10:57,980 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-29 22:10:57,985 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-29 22:10:58,006 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-29 22:10:58,006 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-29 22:10:58,006 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-29 22:10:58,006 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-29 22:10:58,007 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-29 22:10:58,007 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-29 22:10:58,007 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-29 22:10:58,178 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-29 22:10:58,181 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-29 22:10:58,184 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-29 22:10:58,188 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1688087458187 with initial instances count: 4
+2023-06-29 22:10:58,195 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-29 22:10:58,195 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1688087458195, current=UP, previous=STARTING]
+2023-06-29 22:10:58,197 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 22:10:58,197 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-29 22:10:58,215 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-29 22:10:58,216 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-29 22:10:58,226 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 22:10:58,616 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 12.468 seconds (JVM running for 13.695)
+2023-06-29 22:10:58,618 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-29 22:10:58,619 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-29 22:12:30,361 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [http-nio-9091-exec-4] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-29 22:12:30,362 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-4] Initializing Servlet 'dispatcherServlet'
+2023-06-29 22:12:30,367 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-4] Completed initialization in 5 ms
+2023-06-29 22:15:58,009 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:20:58,021 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:25:58,033 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:30:58,039 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:35:58,049 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:40:58,052 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:45:58,066 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:50:58,074 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 22:55:58,079 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 23:00:58,091 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 23:05:58,100 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 23:10:58,110 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 23:15:58,116 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-29 23:19:33,910 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(79)-127.0.0.1] Application shutdown requested.
+2023-06-29 23:19:33,912 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(79)-127.0.0.1] Unregistering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status DOWN
+2023-06-29 23:19:33,913 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(79)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1688091573913, current=DOWN, previous=UP]
+2023-06-29 23:19:33,913 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-29 23:19:33,927 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-29 23:19:34,181 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(79)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2023-06-29 23:19:34,181 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2023-06-29 23:19:34,183 INFO org.camunda.bpm.engine [RMI TCP Connection(79)-127.0.0.1] ENGINE-00007 Process Engine default closed
+2023-06-29 23:19:34,184 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(79)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-29 23:19:34,186 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(79)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-29 23:19:34,189 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(79)-127.0.0.1] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-29 23:19:34,190 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(79)-127.0.0.1] Shutting down DiscoveryClient ...

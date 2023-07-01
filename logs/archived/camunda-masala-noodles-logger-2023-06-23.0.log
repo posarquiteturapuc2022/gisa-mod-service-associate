@@ -1,0 +1,274 @@
+2023-06-23 23:27:12,432 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-23 23:27:12,475 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 18156 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-23 23:27:12,477 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-23 23:27:13,514 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-23 23:27:13,827 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 302 ms. Found 1 JPA repository interfaces.
+2023-06-23 23:27:14,314 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-23 23:27:15,426 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-23 23:27:15,444 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-23 23:27:15,445 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-23 23:27:15,445 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-23 23:27:15,642 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-23 23:27:15,642 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 3114 ms
+2023-06-23 23:27:15,688 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-23 23:27:15,714 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-23 23:27:16,245 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-23 23:27:16,312 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-23 23:27:16,534 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-23 23:27:16,682 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-23 23:27:17,378 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-23 23:27:17,378 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-23 23:27:17,569 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-23 23:27:17,633 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-23 23:27:17,642 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-23 23:27:18,184 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'servicosAssociadosResourceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\resources\impl\ServicosAssociadosResourceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+2023-06-23 23:27:18,185 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-23 23:27:18,188 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-23 23:27:18,224 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-23 23:27:18,226 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2023-06-23 23:27:18,240 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-23 23:27:18,273 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'servicosAssociadosResourceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\resources\impl\ServicosAssociadosResourceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1389)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	... 31 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at br.com.posarquiteturapuc2022.domain.Associado.<init>(Associado.java:35)
+	at br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl.<init>(ServicosAssociadosServiceImpl.java:31)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 33 common frames omitted
+2023-06-23 23:27:33,311 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-23 23:27:33,334 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 36344 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-23 23:27:33,336 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-23 23:27:33,948 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-23 23:27:34,091 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 137 ms. Found 1 JPA repository interfaces.
+2023-06-23 23:27:34,305 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-23 23:27:35,132 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-23 23:27:35,149 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-23 23:27:35,149 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-23 23:27:35,149 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-23 23:27:35,307 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-23 23:27:35,307 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1945 ms
+2023-06-23 23:27:35,326 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-23 23:27:35,340 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-23 23:27:35,720 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-23 23:27:35,761 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-23 23:27:35,926 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-23 23:27:36,077 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-23 23:27:36,662 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-23 23:27:36,662 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-23 23:27:36,820 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-23 23:27:36,870 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-23 23:27:36,877 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-23 23:27:36,898 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'servicosAssociadosResourceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\resources\impl\ServicosAssociadosResourceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+2023-06-23 23:27:36,898 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-23 23:27:36,901 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown initiated...
+2023-06-23 23:27:36,903 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Shutdown completed.
+2023-06-23 23:27:36,905 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2023-06-23 23:27:36,914 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-23 23:27:36,930 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'servicosAssociadosResourceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\resources\impl\ServicosAssociadosResourceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication.main(GisaModServiceAssociateApplication.java:14)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'servicosAssociadosServiceImpl' defined in file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\br\com\posarquiteturapuc2022\services\impl\ServicosAssociadosServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1389)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	... 31 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "UUID", = expected after this token
+	The attribute value is undefined for the annotation type Entity
+
+	at br.com.posarquiteturapuc2022.domain.Associado.<init>(Associado.java:35)
+	at br.com.posarquiteturapuc2022.services.impl.ServicosAssociadosServiceImpl.<init>(ServicosAssociadosServiceImpl.java:31)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 33 common frames omitted
+2023-06-23 23:28:24,948 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2023-06-23 23:28:24,972 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Starting GisaModServiceAssociateApplication using Java 11.0.17 on AVELLHYBA70ALV with PID 11248 (C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes started by alvar in C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate)
+2023-06-23 23:28:24,973 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] The following profiles are active: dev
+2023-06-23 23:28:25,547 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-23 23:28:25,690 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 136 ms. Found 1 JPA repository interfaces.
+2023-06-23 23:28:25,867 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=a2b4ad9c-6fb6-3be6-9cfb-02915439b1ae
+2023-06-23 23:28:26,255 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9091 (http)
+2023-06-23 23:28:26,261 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9091"]
+2023-06-23 23:28:26,261 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-06-23 23:28:26,262 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-23 23:28:26,349 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/gisa-mod-service-associate] [main] Initializing Spring embedded WebApplicationContext
+2023-06-23 23:28:26,349 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1349 ms
+2023-06-23 23:28:26,367 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2023-06-23 23:28:26,379 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2023-06-23 23:28:26,713 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-23 23:28:26,777 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.3.Final
+2023-06-23 23:28:26,990 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-23 23:28:27,192 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2023-06-23 23:28:27,963 WARN com.zaxxer.hikari.HikariConfig [main] CAMUNDA-HIKARI-POOL - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-06-23 23:28:27,963 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Starting...
+2023-06-23 23:28:28,317 INFO com.zaxxer.hikari.HikariDataSource [main] CAMUNDA-HIKARI-POOL - Start completed.
+2023-06-23 23:28:28,411 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-23 23:28:28,423 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-23 23:28:28,555 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-23 23:28:28,948 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2023-06-23 23:28:29,078 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=demo, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password=******]], failedJobConfiguration, CreateFilterConfiguration[filterName=All], eventPublisherPlugin, ApplicationContextClassloaderSwitchPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2023-06-23 23:28:29,833 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.16.0\camunda-engine-dmn-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-23 23:28:29,833 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.16.0\camunda-engine-feel-api-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-23 23:28:29,833 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.16.0\camunda-engine-feel-juel-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-23 23:28:29,833 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.16.0\camunda-engine-feel-scala-7.16.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2023-06-23 23:28:29,833 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [C:\desenvolvimento\tcc\boasaude\workspace\gisa-mod-service-associate\target\classes\diagrama_gisa_servicos_associados.bpmn]]
+2023-06-23 23:28:29,835 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2023-06-23 23:28:29,835 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2023-06-23 23:28:29,835 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2023-06-23 23:28:29,837 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2023-06-23 23:28:29,839 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2023-06-23 23:28:29,984 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2023-06-23 23:28:29,994 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2023-06-23 23:28:29,994 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2023-06-23 23:28:30,153 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2023-06-23 23:28:30,218 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@7b91e3d4, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@20bc72af)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@113ba21, clock: SystemClock, configuration: Configuration(false)]
+2023-06-23 23:28:35,581 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2023-06-23 23:28:35,582 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2023-06-23 23:28:35,765 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2023-06-23 23:28:35,795 INFO org.camunda.bpm.spring.boot [main] STARTER-SB011 skip creating initial Admin User, user does exist: UserEntity[id=demo, revision=1, firstName=Andromeda, lastName=Galaxy, email=ufo@andromeda.com, password={SHA-512}iYLA51eNHSmPbOVm3hlNo4Ef6ILcc1DEFu2VRxGJlM8dO9jJE0wAHXQkV9jEXIlJBiRoQyRYkk64EuPhlJkWug==, salt=cBOApNh8U2ZMEQjsk41/Vw==, lockExpirationTime=null, attempts=0]
+2023-06-23 23:28:35,799 INFO org.camunda.bpm.spring.boot [main] STARTER-SB016 Skip initial filter creation, the filter with this name already exists: All
+2023-06-23 23:28:36,942 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@2b1d1a5
+2023-06-23 23:28:36,942 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@3e2772a9
+2023-06-23 23:28:38,114 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses RestTemplate.
+2023-06-23 23:28:38,682 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [main] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-06-23 23:28:38,763 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2023-06-23 23:28:38,800 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2023-06-23 23:28:38,806 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2023-06-23 23:28:38,828 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2023-06-23 23:28:38,828 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2023-06-23 23:28:38,828 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2023-06-23 23:28:38,828 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2023-06-23 23:28:38,828 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2023-06-23 23:28:38,829 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2023-06-23 23:28:38,829 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2023-06-23 23:28:39,026 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2023-06-23 23:28:39,028 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2023-06-23 23:28:39,031 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-06-23 23:28:39,034 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1687573719034 with initial instances count: 3
+2023-06-23 23:28:39,041 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GISA-MOD-SERVICE-ASSOCIATE with eureka with status UP
+2023-06-23 23:28:39,041 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1687573719041, current=UP, previous=STARTING]
+2023-06-23 23:28:39,043 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9091"]
+2023-06-23 23:28:39,043 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091: registering service...
+2023-06-23 23:28:39,062 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9091 (http) with context path '/gisa-mod-service-associate'
+2023-06-23 23:28:39,062 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9091
+2023-06-23 23:28:39,074 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GISA-MOD-SERVICE-ASSOCIATE/AVELLHYBA70ALV:gisa-mod-service-associate:9091 - registration status: 204
+2023-06-23 23:28:39,394 INFO br.com.posarquiteturapuc2022.GisaModServiceAssociateApplication [main] Started GisaModServiceAssociateApplication in 15.372 seconds (JVM running for 16.232)
+2023-06-23 23:28:39,397 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2023-06-23 23:28:39,398 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2023-06-23 23:33:38,834 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-23 23:38:38,838 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-23 23:43:38,846 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-23 23:48:38,849 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-23 23:53:38,852 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2023-06-23 23:58:38,861 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration

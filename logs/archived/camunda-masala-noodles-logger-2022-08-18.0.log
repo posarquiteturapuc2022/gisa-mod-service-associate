@@ -1,0 +1,367 @@
+2022-08-18 18:13:26,701 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2022-08-18 18:13:26,725 INFO com.noodles.MasalaNoodlesApplication [main] Starting MasalaNoodlesApplication using Java 17.0.4 on ALVAROCORSAIRPC with PID 23640 (D:\PUC\workspace\camunda-masala-noodles\target\classes started by alvar in D:\PUC\workspace\camunda-masala-noodles)
+2022-08-18 18:13:26,726 DEBUG com.noodles.MasalaNoodlesApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2022-08-18 18:13:26,726 INFO com.noodles.MasalaNoodlesApplication [main] No active profile set, falling back to default profiles: default
+2022-08-18 18:13:27,709 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-18 18:13:27,726 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
+2022-08-18 18:13:28,285 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 10101 (http)
+2022-08-18 18:13:28,298 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-10101"]
+2022-08-18 18:13:28,298 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-08-18 18:13:28,299 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-08-18 18:13:28,476 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/camunda-masala-noodles] [main] Initializing Spring embedded WebApplicationContext
+2022-08-18 18:13:28,476 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1697 ms
+2022-08-18 18:13:28,502 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Configuring camunda rest api.
+2022-08-18 18:13:28,523 INFO org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig [main] Finished configuring camunda rest api.
+2022-08-18 18:13:28,740 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-08-18 18:13:28,953 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-08-18 18:13:28,962 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:camunda-h2-database'
+2022-08-18 18:13:29,133 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-18 18:13:29,191 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.28.Final
+2022-08-18 18:13:29,352 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-18 18:13:29,494 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-08-18 18:13:29,773 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-18 18:13:29,787 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-18 18:13:29,899 INFO org.camunda.bpm.spring.boot [main] STARTER-SB040 Setting up jobExecutor with corePoolSize=3, maxPoolSize:10
+2022-08-18 18:13:29,900 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'camundaTaskExecutor'
+2022-08-18 18:13:29,974 INFO org.camunda.bpm.engine.cfg [main] ENGINE-12003 Plugin 'CompositeProcessEnginePlugin[genericPropertiesConfiguration, camundaProcessEngineConfiguration, camundaDatasourceConfiguration, camundaJpaConfiguration, camundaJobConfiguration, camundaHistoryConfiguration, camundaMetricsConfiguration, camundaAuthorizationConfiguration, camundaDeploymentConfiguration, CreateAdminUserConfiguration[adminUser=AdminUserProperty[id=noodles, firstName=Noodles, lastName=Noodles, email=noodles@localhost, password=******]], failedJobConfiguration, eventPublisherPlugin, SpringBootSpinProcessEnginePlugin]' activated on process engine 'default'
+2022-08-18 18:13:31,514 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-dmn\7.15.0\camunda-engine-dmn-7.15.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2022-08-18 18:13:31,514 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-api\7.15.0\camunda-engine-feel-api-7.15.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2022-08-18 18:13:31,515 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-juel\7.15.0\camunda-engine-feel-juel-7.15.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2022-08-18 18:13:31,515 WARN org.camunda.bpm.spring.boot.starter.configuration.impl.DefaultDeploymentConfiguration [main] unable to determine if resource URL [jar:file:C:\Users\alvar\.m2\repository\org\camunda\bpm\dmn\camunda-engine-feel-scala\7.15.0\camunda-engine-feel-scala-7.15.0.jar!/META-INF/maven/org.camunda.bpm.dmn/] is a deployable resource
+2022-08-18 18:13:31,515 INFO org.camunda.bpm.spring.boot [main] STARTER-SB021 Auto-Deploying resources: [file [D:\PUC\workspace\camunda-masala-noodles\target\classes\cook_noodles_process.bpmn], file [D:\PUC\workspace\camunda-masala-noodles\target\classes\teste.bpmn]]
+2022-08-18 18:13:31,518 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-001: Initialized Camunda Spring Boot Eventing Engine Plugin.
+2022-08-18 18:13:31,518 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-003: Task events will be published as Spring Events.
+2022-08-18 18:13:31,519 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-005: Execution events will be published as Spring Events.
+2022-08-18 18:13:31,521 INFO org.camunda.bpm.spring.boot.starter.event.EventPublisherPlugin [main] EVENTING-007: History events will be published as Spring events.
+2022-08-18 18:13:31,526 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormatProvider[name = application/json]
+2022-08-18 18:13:31,711 INFO org.camunda.spin [main] SPIN-01010 Discovered Spin data format provider: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormatProvider[name = application/xml]
+2022-08-18 18:13:31,719 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.xml.dom.format.DomXmlDataFormat[name = application/xml]
+2022-08-18 18:13:31,719 INFO org.camunda.spin [main] SPIN-01009 Discovered Spin data format: org.camunda.spin.impl.json.jackson.format.JacksonJsonDataFormat[name = application/json]
+2022-08-18 18:13:31,912 INFO org.camunda.bpm.dmn.feel.scala [main] FEEL/SCALA-01001 Spin value mapper detected
+2022-08-18 18:13:31,976 INFO org.camunda.feel.FeelEngine [main] Engine created. [value-mapper: CompositeValueMapper(List(org.camunda.feel.impl.JavaValueMapper@15a41088, org.camunda.spin.plugin.impl.feel.integration.SpinValueMapper@18356951)), function-provider: org.camunda.bpm.dmn.feel.impl.scala.function.CustomFunctionTransformer@69a3944, clock: SystemClock, configuration: Configuration(false)]
+2022-08-18 18:13:36,590 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'http-connector' and class 'org.camunda.connect.httpclient.impl.HttpConnectorImpl': 'org.camunda.connect.httpclient.impl.HttpConnectorProviderImpl'
+2022-08-18 18:13:36,592 INFO org.camunda.bpm.connect [main] CNCT-01004 Discovered provider for connector id 'soap-http-connector' and class 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorImpl': 'org.camunda.connect.httpclient.soap.impl.SoapHttpConnectorProviderImpl'
+2022-08-18 18:13:36,790 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'engine' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.engine.sql'
+2022-08-18 18:13:36,837 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'history' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.history.sql'
+2022-08-18 18:13:36,845 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'identity' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.identity.sql'
+2022-08-18 18:13:36,858 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'case.engine' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.case.engine.sql'
+2022-08-18 18:13:36,861 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'case.history' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.case.history.sql'
+2022-08-18 18:13:36,865 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'decision.engine' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.decision.engine.sql'
+2022-08-18 18:13:36,873 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03016 Performing database operation 'create' on component 'decision.history' with resource 'org/camunda/bpm/engine/db/create/activiti.h2.create.decision.history.sql'
+2022-08-18 18:13:36,897 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03067 No history level property found in database
+2022-08-18 18:13:36,898 INFO org.camunda.bpm.engine.persistence [main] ENGINE-03065 Creating historyLevel property in database for level: HistoryLevelFull(name=full, id=3)
+2022-08-18 18:13:36,939 INFO org.camunda.bpm.engine [main] ENGINE-00001 Process Engine default created.
+2022-08-18 18:13:37,054 INFO org.camunda.bpm.spring.boot [main] STARTER-SB010 creating initial Admin User: AdminUserProperty[id=noodles, firstName=Noodles, lastName=Noodles, email=noodles@localhost, password=******]
+2022-08-18 18:13:47,971 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-18 18:13:49,420 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazySecurityFilter@7871d261
+2022-08-18 18:13:49,421 INFO org.camunda.bpm.spring.boot.starter.webapp.filter.LazyInitRegistration [main] lazy initialized org.camunda.bpm.spring.boot.starter.webapp.filter.LazyProcessEnginesFilter@46d0f89c
+2022-08-18 18:13:49,564 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-10101"]
+2022-08-18 18:13:49,620 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 10101 (http) with context path '/camunda-masala-noodles'
+2022-08-18 18:13:49,633 INFO com.noodles.MasalaNoodlesApplication [main] Started MasalaNoodlesApplication in 23.527 seconds (JVM running for 40.414)
+2022-08-18 18:13:49,636 INFO org.camunda.bpm.engine.jobexecutor [main] ENGINE-14014 Starting up the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor].
+2022-08-18 18:13:49,637 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14018 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] starting to acquire jobs
+2022-08-18 18:16:26,912 INFO org.apache.tomcat.util.http.parser.Cookie [http-nio-10101-exec-2] A cookie header was received [:auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c18zMTE0Mzg0YTEyNzM0OGQ4OGM4ZjYzZTczMjNkYTZjNCIsInNlc3Npb25JZCI6IjU0ZGQ3NThkNTk3ZjQ5ZjM5NDcyOTlmMjkxNGM5YmE2IiwidGVuYW50SWQiOiJkZWZhdWx0IiwiaWF0IjoxNjYwMzUyMjc3fQ.5rQubC5MbSYEu4QYXJR0BeJv-LA7rn7HEgG8DmCw0Nk; budibase:auth.sig=ZEYofHlWG9PV-nlS_OYAAVpqd3g; budibase:init=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjAzNTIzNTF9.UjQw0ID8iARbNIQd67k9VPIB3hfqu3iVUyZqDL6PTGo; budibase:init.sig=TacEVkcJ6x9vkxMFjZp-EEZESn4; budibase:currentapp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6ImFwcF8zNmI4Zjk5NTIxZWQ0OTI4YTBlZTcwNDUxODgxOTJiZSIsImlhdCI6MTY2MDM1MjM2NH0.oO5fhkj0GNYre3J74kSh6EPRQWL95Ga7gxMBEq1G5uM; JSESSIONID=198600ECE123DF4EB0F6FA2FEE3C7758] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-08-18 18:16:26,922 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/camunda-masala-noodles] [http-nio-10101-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-18 18:16:26,922 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-10101-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-08-18 18:16:26,924 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-10101-exec-2] Completed initialization in 2 ms
+2022-08-18 19:30:26,589 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(102)-127.0.0.1] Application shutdown requested.
+2022-08-18 19:30:26,631 INFO org.camunda.bpm.engine.jobexecutor [RMI TCP Connection(102)-127.0.0.1] ENGINE-14015 Shutting down the JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]
+2022-08-18 19:30:26,631 INFO org.camunda.bpm.engine.jobexecutor [JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor]] ENGINE-14020 JobExecutor[org.camunda.bpm.engine.spring.components.jobexecutor.SpringJobExecutor] stopped job acquisition
+2022-08-18 19:30:26,634 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement '-- 
+-- 
+-- 
+-- 
+alter table ACT_RE_DECISION_DEF 
+drop constraint ACT_FK_DEC_REQ'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,635 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement 'drop index ACT_IDX_DEC_DEF_TENANT_ID'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,636 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement 'drop index ACT_IDX_DEC_DEF_REQ_ID'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,636 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement 'drop index ACT_IDX_DEC_REQ_DEF_TENANT_ID'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,637 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement 'drop table ACT_RE_DECISION_DEF if exists'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,637 ERROR org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03015 Problem during schema operation 'drop' with statement 'drop table ACT_RE_DECISION_REQ_DEF if exists'. Cause: 'Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]'
+2022-08-18 19:30:26,638 INFO org.camunda.bpm.engine.persistence [RMI TCP Connection(102)-127.0.0.1] ENGINE-03016 Performing database operation 'drop' on component 'decision.engine' with resource 'org/camunda/bpm/engine/db/drop/activiti.h2.drop.decision.engine.sql'
+2022-08-18 19:30:26,641 ERROR org.camunda.bpm.engine.context [RMI TCP Connection(102)-127.0.0.1] ENGINE-16004 Exception while closing command context: ENGINE-03017 Could not perform operation 'drop' on database schema for SQL Statement: '-- 
+-- 
+-- 
+-- 
+alter table ACT_RE_DECISION_DEF 
+drop constraint ACT_FK_DEC_REQ'.
+org.camunda.bpm.engine.ProcessEngineException: ENGINE-03017 Could not perform operation 'drop' on database schema for SQL Statement: '-- 
+-- 
+-- 
+-- 
+alter table ACT_RE_DECISION_DEF 
+drop constraint ACT_FK_DEC_REQ'.
+	at org.camunda.bpm.engine.impl.db.EnginePersistenceLogger.performDatabaseOperationException(EnginePersistenceLogger.java:232)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:854)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:781)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeMandatorySchemaResource(DbSqlSession.java:595)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.dbSchemaDropDmn(DbSqlSession.java:586)
+	at org.camunda.bpm.engine.impl.db.AbstractPersistenceSession.dbSchemaDrop(AbstractPersistenceSession.java:139)
+	at org.camunda.bpm.engine.impl.SchemaOperationProcessEngineClose.execute(SchemaOperationProcessEngineClose.java:33)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.ProcessEngineImpl.close(ProcessEngineImpl.java:185)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.destroy(ProcessEngineFactoryBean.java:42)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1105)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1074)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:171)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1020)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown(SpringApplicationAdminMXBeanRegistrar.java:160)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:72)
+	at jdk.internal.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:262)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:193)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:175)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:117)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:54)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:237)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor83.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1514)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1490)
+	at org.h2.jdbc.JdbcConnection.createStatement(JdbcConnection.java:265)
+	at com.zaxxer.hikari.pool.ProxyConnection.createStatement(ProxyConnection.java:294)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.createStatement(HikariProxyConnection.java)
+	at jdk.internal.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy$TransactionAwareInvocationHandler.invoke(TransactionAwareDataSourceProxy.java:238)
+	at jdk.proxy2/jdk.proxy2.$Proxy80.createStatement(Unknown Source)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:824)
+	... 64 common frames omitted
+2022-08-18 19:30:26,645 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [RMI TCP Connection(102)-127.0.0.1] SQL Error: 90121, SQLState: 90121
+2022-08-18 19:30:26,645 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [RMI TCP Connection(102)-127.0.0.1] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-08-18 19:30:26,646 ERROR org.springframework.orm.jpa.EntityManagerFactoryUtils [RMI TCP Connection(102)-127.0.0.1] Failed to release JPA EntityManager
+org.hibernate.exception.JDBCConnectionException: Unable to release JDBC Connection
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:48)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.resource.jdbc.internal.LogicalConnectionManagedImpl.releaseConnection(LogicalConnectionManagedImpl.java:221)
+	at org.hibernate.resource.jdbc.internal.LogicalConnectionManagedImpl.close(LogicalConnectionManagedImpl.java:259)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.close(JdbcCoordinatorImpl.java:175)
+	at org.hibernate.internal.AbstractSharedSessionContract.close(AbstractSharedSessionContract.java:351)
+	at org.hibernate.internal.SessionImpl.closeWithoutOpenChecks(SessionImpl.java:376)
+	at org.hibernate.internal.SessionImpl.close(SessionImpl.java:361)
+	at org.springframework.orm.jpa.EntityManagerFactoryUtils.closeEntityManager(EntityManagerFactoryUtils.java:427)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCleanupAfterCompletion(JpaTransactionManager.java:650)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.cleanupAfterCompletion(AbstractPlatformTransactionManager.java:1004)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processRollback(AbstractPlatformTransactionManager.java:875)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.rollback(AbstractPlatformTransactionManager.java:809)
+	at org.springframework.transaction.support.TransactionTemplate.rollbackOnException(TransactionTemplate.java:168)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:144)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.ProcessEngineImpl.close(ProcessEngineImpl.java:185)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.destroy(ProcessEngineFactoryBean.java:42)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1105)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1074)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:171)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1020)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown(SpringApplicationAdminMXBeanRegistrar.java:160)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:72)
+	at jdk.internal.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:262)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:193)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:175)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:117)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:54)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:237)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor83.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1514)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1490)
+	at org.h2.jdbc.JdbcConnection.setAutoCommit(JdbcConnection.java:495)
+	at com.zaxxer.hikari.pool.PoolBase.resetConnectionState(PoolBase.java:219)
+	at com.zaxxer.hikari.pool.PoolEntry.resetConnectionState(PoolEntry.java:102)
+	at com.zaxxer.hikari.pool.ProxyConnection.close(ProxyConnection.java:263)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.closeConnection(DatasourceConnectionProviderImpl.java:127)
+	at org.hibernate.internal.NonContextualJdbcConnectionAccess.releaseConnection(NonContextualJdbcConnectionAccess.java:49)
+	at org.hibernate.resource.jdbc.internal.LogicalConnectionManagedImpl.releaseConnection(LogicalConnectionManagedImpl.java:217)
+	... 67 common frames omitted
+2022-08-18 19:30:26,647 ERROR org.springframework.transaction.support.TransactionTemplate [RMI TCP Connection(102)-127.0.0.1] Application exception overridden by rollback exception
+org.camunda.bpm.engine.ProcessEngineException: ENGINE-03017 Could not perform operation 'drop' on database schema for SQL Statement: '-- 
+-- 
+-- 
+-- 
+alter table ACT_RE_DECISION_DEF 
+drop constraint ACT_FK_DEC_REQ'.
+	at org.camunda.bpm.engine.impl.db.EnginePersistenceLogger.performDatabaseOperationException(EnginePersistenceLogger.java:232)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:854)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:781)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeMandatorySchemaResource(DbSqlSession.java:595)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.dbSchemaDropDmn(DbSqlSession.java:586)
+	at org.camunda.bpm.engine.impl.db.AbstractPersistenceSession.dbSchemaDrop(AbstractPersistenceSession.java:139)
+	at org.camunda.bpm.engine.impl.SchemaOperationProcessEngineClose.execute(SchemaOperationProcessEngineClose.java:33)
+	at org.camunda.bpm.engine.impl.interceptor.CommandExecutorImpl.execute(CommandExecutorImpl.java:28)
+	at org.camunda.bpm.engine.impl.interceptor.CommandContextInterceptor.execute(CommandContextInterceptor.java:110)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor$1.doInTransaction(SpringTransactionInterceptor.java:72)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:140)
+	at org.camunda.bpm.engine.spring.SpringTransactionInterceptor.execute(SpringTransactionInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.ProcessApplicationContextInterceptor.execute(ProcessApplicationContextInterceptor.java:70)
+	at org.camunda.bpm.engine.impl.interceptor.CommandCounterInterceptor.execute(CommandCounterInterceptor.java:35)
+	at org.camunda.bpm.engine.impl.interceptor.LogInterceptor.execute(LogInterceptor.java:33)
+	at org.camunda.bpm.engine.impl.ProcessEngineImpl.close(ProcessEngineImpl.java:185)
+	at org.camunda.bpm.engine.spring.ProcessEngineFactoryBean.destroy(ProcessEngineFactoryBean.java:42)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1105)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1074)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:171)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1020)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown(SpringApplicationAdminMXBeanRegistrar.java:160)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:72)
+	at jdk.internal.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:262)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:193)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:175)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:117)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:54)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:237)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor83.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1514)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1490)
+	at org.h2.jdbc.JdbcConnection.createStatement(JdbcConnection.java:265)
+	at com.zaxxer.hikari.pool.ProxyConnection.createStatement(ProxyConnection.java:294)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.createStatement(HikariProxyConnection.java)
+	at jdk.internal.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy$TransactionAwareInvocationHandler.invoke(TransactionAwareDataSourceProxy.java:238)
+	at jdk.proxy2/jdk.proxy2.$Proxy80.createStatement(Unknown Source)
+	at org.camunda.bpm.engine.impl.db.sql.DbSqlSession.executeSchemaResource(DbSqlSession.java:824)
+	... 64 common frames omitted
+2022-08-18 19:30:26,648 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [RMI TCP Connection(102)-127.0.0.1] Invocation of destroy method failed on bean with name 'processEngineFactoryBean': org.springframework.transaction.TransactionSystemException: Could not roll back JPA transaction; nested exception is org.hibernate.TransactionException: Unable to rollback against JDBC Connection
+2022-08-18 19:30:26,650 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(102)-127.0.0.1] Shutting down ExecutorService 'camundaTaskExecutor'
+2022-08-18 19:30:26,651 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(102)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-18 19:30:26,652 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [RMI TCP Connection(102)-127.0.0.1] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2022-08-18 19:30:26,658 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(102)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-08-18 19:30:26,660 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(102)-127.0.0.1] HikariPool-1 - Shutdown completed.
