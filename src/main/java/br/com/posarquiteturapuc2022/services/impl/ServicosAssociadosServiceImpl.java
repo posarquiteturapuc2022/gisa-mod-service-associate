@@ -14,6 +14,7 @@ import br.com.posarquiteturapuc2022.exception.ObjectNotFoundException;
 import br.com.posarquiteturapuc2022.feignServicesAssociates.ServicosAssociadoApiFeign;
 import br.com.posarquiteturapuc2022.repository.ServicosAssociadosRepository;
 import br.com.posarquiteturapuc2022.services.ServicosAssociadosService;
+import br.com.posarquiteturapuc2022.utils.GeradorNumeroCarterinha;
 import feign.FeignException;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import lombok.RequiredArgsConstructor;
@@ -100,9 +101,10 @@ public class ServicosAssociadosServiceImpl implements ServicosAssociadosService{
 		}
 		
 		try {
-			gerarNumeroCarteirinha();
-			associadoRetornoApi.setTipoStatus(TipoStatus.GERADO);
+			String numeroCarteirinha = GeradorNumeroCarterinha.gerarNumeroAleatorio();
 			this.associado = associadoRetornoApi;
+			associadoRetornoApi.setNumeroCarteirinhaAssociado(numeroCarteirinha);
+			associadoRetornoApi.setTipoStatus(TipoStatus.GERADO);
 			return servicosAssociadosRepository.saveAndFlush(this.associado);
 		}catch (Exception e) {
 			logger.info("Solicitação não pode ser enviada com sucesso!");
